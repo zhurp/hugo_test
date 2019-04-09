@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat2 on My New Hugo Site</title>
+    <link>https://zhurp.github.io/hugo_test/categories/cat2/</link>
+    <description>Recent content in Cat2 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2019 11:53:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhurp.github.io/hugo_test/categories/cat2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C</title>
+      <link>https://zhurp.github.io/hugo_test/dir1/c/</link>
+      <pubDate>Sat, 06 Apr 2019 11:53:34 +0800</pubDate>
+      
+      <guid>https://zhurp.github.io/hugo_test/dir1/c/</guid>
+      <description>This is dir1/c.md</description>
+    </item>
+    
+    <item>
+      <title>B</title>
+      <link>https://zhurp.github.io/hugo_test/dir1/b/</link>
+      <pubDate>Sat, 06 Apr 2019 11:53:30 +0800</pubDate>
+      
+      <guid>https://zhurp.github.io/hugo_test/dir1/b/</guid>
+      <description>This is dir1/b.md</description>
+    </item>
+    
+  </channel>
+</rss>
